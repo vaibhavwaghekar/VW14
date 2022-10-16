@@ -8,4 +8,14 @@ public class Git14T1
 		
 		System.out.println("Hello selenium");
 	}
+	
+	public void m1()
+	{
+		
+		System.out.println("New method add m1");
+		
+	}
+	
+	
+	
 }
