@@ -16,6 +16,10 @@ public class Git14T1
 		
 	}
 	
+	public void m2()
+	{
+	System.out.println("New method add from git m2");
+	}
 	
 	
 }
