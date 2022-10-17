@@ -21,5 +21,10 @@ public class Git14T1
 	System.out.println("New method add from git m2");
 	}
 	
+	public void m3()
+	{
+	System.out.println("New method add Branch Or Merge git m3");
+	}
+	
 	
 }
